@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(https://i.pinimg.com/474x/04/5f/ee/045fee7aae0b1ad64039ecd907bf3c35.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.App {
+    display: block;
+    background-color: black;
+    border-radius: 10px;
+    opacity: 60%;
+    width: 33%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin-left: 33%;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    position: relative;
+}
+.title{
+    color: #fff;
+    width: 200px;
+padding-left: 200px;
+}
+.pic {
+    display: block;
+    align-items: center;
+    width: 200px;
+    padding-left: 200px
+
+}
